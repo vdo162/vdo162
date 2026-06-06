@@ -1,4 +1,6 @@
-## Hi there 👋
+#### Welcome to my Github profile! 🧝
+
+[![Codwears badge](https://www.codewars.com/users/vdo162/badges/large?theme=light)](https://www.codewars.com/users/vdo162)
 
 <!--
 **vdo162/vdo162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
